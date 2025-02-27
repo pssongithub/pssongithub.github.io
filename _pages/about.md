@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: psshappystar@gmail.com / <a href="https://yilinliu77.github.io/assets/pdf/cv.pdf" target="_blank">CV</a>
+subtitle: psshappystar@gmail.com / <a href="https://pssongithub.github.io/assets/pdf/CV.pdf" target="_blank">CV</a>
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
